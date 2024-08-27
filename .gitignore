@@ -162,4 +162,11 @@ cython_debug/
 #.idea/
 
 ### User-added gitignore 
-/output/*
+output/*
+!output/.gitkeep
+
+input/*
+!input/.gitkeep
+
+data/*
+!data/.gitkeep
