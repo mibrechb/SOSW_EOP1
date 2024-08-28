@@ -11,8 +11,8 @@ Check out the project website at [sos-water.eu](https://sos-water.eu) for more i
 To use the provided code and notebooks it is necessary to setup a Google Earth Engine account ([GEE account registration](https://code.earthengine.google.com/register)) and have a python environment with the needed dependencies installed.
 
 ### Setup python environment (conda)
-- Build a conda environment from the provided YAML file in `setup/environment.yaml`:<br/>
-`conda create --name sosw_eop1 --file setup/environment.yaml`
+- Build a conda environment from the provided YAML file in `setup/environment.yml`:<br/>
+`conda create --name sosw_eop1 --file setup/environment.yml`
 
 ## Technical Notes
 
@@ -24,7 +24,7 @@ Views and opinions expressed are those of the author(s) only and do not necessar
 ## Acknowledgement of funding
 <table style="border: none;">
   <tr>
-    <td><img src="https://github.com/mibrechb/SOSW_WP3/blob/main/imgs/eucom_logo.png" alt="EU Logo" width="150"/></td>
+    <td><img src="https://github.com/mibrechb/SOSW_WP3/blob/main/imgs/eucom_logo.png" alt="EU Logo" width="100"/></td>
     <td>This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101059264.</td>
   </tr>
 </table>
