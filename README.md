@@ -1,4 +1,5 @@
 # <img src="https://github.com/mibrechb/SOSW_WP3/blob/main/imgs/sosw_logo.png" width="80"> SOS-Water - EOP1 SPM Mapper
+[![DOI](https://img.shields.io/badge/DOI-10.3030%2F101059264-blue)](https://doi.org/10.3030/101059264)
 
 The Earth Observation Prototype 1 (EOP1) for Suspended Particulate Matter (SPM) retrieval is a prototype algorithm designed to estimate suspended sediment concentrations in lakes and rivers using Sentinel-2 MSI and Landsat-7/8/9 ETM+/OLI/OLI-2 data. This prototype addresses data gaps related to sediment flows, particularly in the Mekong basin, which are critical for maintaining ecosystem health and delta stability. The model offers high-resolution (10 to 30 meters) mapping capabilities and supports both monitoring applications and historical analysis dating back to April 1999. 
 
